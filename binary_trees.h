@@ -34,7 +34,10 @@ void binary_tree_print(const binary_tree_t *tree);
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
 /*Task 1*/
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);
+<<<<<<< HEAD
 /*Task 2*/
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value);
+=======
+>>>>>>> 3473bb0a52a08d91b7ca7e9b3c474223485ad4b0
 
 #endif
